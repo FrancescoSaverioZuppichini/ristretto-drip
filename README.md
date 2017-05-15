@@ -1,3 +1,4 @@
+#Assignment 6 - Zuppichini Francesco
 # Ristretto
 
 This is a compiler for a small language called Ristretto, consisting of integer
